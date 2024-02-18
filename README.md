@@ -9,7 +9,7 @@ pip install easyocr
 
 (if some packages are required, please install.)
 
-# usage
+# How to use
 Push "Open" button or drag and drop file to picture area to ocr your files.
 
 Push "Save" button to save text on textbox as textfile.
